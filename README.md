@@ -1,0 +1,1 @@
+Server to client banking system in C. Has login, register functionality. Working principle is a .dat file that is sent to the server and back to the client (ATM) for changes and stuff. Not very secure. Probably sucks overall. First year project for UNIX systems.
