@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1714899988 source:/home/luna/Desktop/banktask/2CLIENT/main.c
+	<unistd.h>
+	<stdio.h>
+	<stdlib.h>
+	<sys/types.h>
+	<sys/wait.h>
+	<ncurses.h>
+	<sys/stat.h>
+	<errno.h>
+	<fcntl.h>
+	<string.h>
+	<termios.h>
+	<signal.h>
+	<netdb.h>
+	<netinet/in.h>
+	<sys/socket.h>
+	<arpa/inet.h>
+
